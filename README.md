@@ -1,5 +1,5 @@
 # AR-web
-Webar project using zapper
+WebAR project using zapper
 
 Scan me to open the app
 
